@@ -1,10 +1,9 @@
-# Curso de base de datos para Apliacasiones
+# Curso de Bases de Datos para Aplicaciones
 
-Este repositorio contiene los topico Siguiens: 
+Este repositorio contiene los siguientes tópicos:
 
-1.- Consultas Avanzadas 
-1.- Procedimientos
-1.- DIsparadores
-1.- Vistas
-1.- Manejo de Transacciones
-1.- # Bases_de_datos_Consultas_Avanzadas_SQL
+1. Consultas Avanzadas
+2. Procedimientos
+3. Disparadores
+4. Vistas
+5. Manejo de Transacciones
